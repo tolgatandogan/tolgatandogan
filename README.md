@@ -32,16 +32,13 @@
 
 ## 🚀 Latest Projects
 
-### 1. [E-Commerce Microservices](https://github.com/tolgatandogan/ECommerce-Microservices)
+### 1. [Garment Analyzer](https://github.com/tolgatandogan/FitScope)
 ![.NET](https://img.shields.io/badge/.NET-6.0-blue)
-![Docker](https://img.shields.io/badge/Docker-3.0-yellowgreen)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.9-orange)  
-Clean Architecture ile tasarlanmış, Docker ve Kubernetes ile deploy edilen modüler e-ticaret platformu.
+MapperLabs is a high-performance, flexible object mapping library for .NET applications. It uses Expression Trees and IL Emit instead of reflection for maximum performance.
 
-### 2. [Real-Time Chat API](https://github.com/tolgatandogan/Realtime-Chat-API)
-![SignalR](https://img.shields.io/badge/SignalR-3.1-brightgreen)
-![Redis](https://img.shields.io/badge/Redis-6.2-red)  
-ASP.NET Core SignalR ve Redis Pub/Sub kullanılarak geliştirilmiş gerçek zamanlı mesajlaşma çözümü.
+### 2. [ProductVisualGenerator](https://github.com/tolgatandogan/ProductVisualGenerator)
+![.NET](https://img.shields.io/badge/.NET-6.0-blue)
+An automated tool to generate product images for e-commerce using OpenAI DALL-E 3. Reads product data from CSV, creates AI visuals, and saves them locally.
 
 ---
 
